@@ -1,7 +1,7 @@
 <template>
-    <div>
-      
-    </div>
+  <div class="chat">
+    chat
+  </div>
 </template>
 
 <script>
@@ -12,4 +12,4 @@ export default {
 
 <style scoped>
 
-</style>>
+</style>
